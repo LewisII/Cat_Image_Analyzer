@@ -9,6 +9,9 @@ takes these images and processes them into happy, or grumpy cats
 
 Planned modifications
 
+Scrapper to pull images of cats online, and add to database
+-Check if images is already upload some %match
+
 Allowing user to upload images of cats to the files to be processed
 
 Allowing user to create categories of cats moods.
